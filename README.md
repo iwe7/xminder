@@ -17,7 +17,7 @@
   - [区块链游戏系统](./src/chain/shoper/readme.md)
   - [区块链溯源系统](./src/chain/shoper/readme.md)
   - [区块链投票系统](./src/chain/shoper/readme.md)
-  - [区块链内容社交系统](./src/chain/shoper/readme.md)
+  - [区块链内容社交](./src/chain/shoper/readme.md)
   - [区块链广告系统](./src/chain/shoper/readme.md)
   - [区块链慈善系统](./src/chain/shoper/readme.md)
   - [区块链医疗系统](./src/chain/shoper/readme.md)
