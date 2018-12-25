@@ -10,6 +10,8 @@
 
 ## 灵感收录
 
+- [区块链会员系统](https://github.com/iwe7/xminder/issues/2)
+
 ## 突破性需求收录
 
 ## 发布灵感和需求
