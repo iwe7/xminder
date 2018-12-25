@@ -10,10 +10,10 @@
 
 ## 灵感收录
 
-- [区块链系统](https://github.com/iwe7/xminder/issues/2)
-    - [区块链文件系统]()
-    - [区块链会员系统]()
-    - [区块链商户系统]()
+- [区块链](https://github.com/iwe7/xminder/issues/2)
+  - [区块链文件系统](./src/chain/fs/readme.md)
+  - [区块链会员系统](./src/chain/member/readme.md)
+  - [区块链商户系统](./src/chain/shoper/readme.md)
 
 ## 突破性需求收录
 
