@@ -14,6 +14,16 @@
   - [区块链文件系统](./src/chain/fs/readme.md)
   - [区块链会员系统](./src/chain/member/readme.md)
   - [区块链商户系统](./src/chain/shoper/readme.md)
+  - [区块链游戏系统](./src/chain/shoper/readme.md)
+  - [区块链溯源系统](./src/chain/shoper/readme.md)
+  - [区块链投票系统](./src/chain/shoper/readme.md)
+  - [区块链内容社交系统](./src/chain/shoper/readme.md)
+  - [区块链广告系统](./src/chain/shoper/readme.md)
+  - [区块链慈善系统](./src/chain/shoper/readme.md)
+  - [区块链医疗系统](./src/chain/shoper/readme.md)
+  - [区块链版权系统](./src/chain/shoper/readme.md)
+  - [区块链证书系统](./src/chain/shoper/readme.md)
+  - [区块链金融系统](./src/chain/shoper/readme.md)
 
 ## 突破性需求收录
 
